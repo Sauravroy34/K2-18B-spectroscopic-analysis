@@ -1,5 +1,5 @@
 # K2-18B Spectra
-In this project of mine, I plot [x1dint.fits](https://jwst-pipeline.readthedocs.io/en/latest/jwst/data_products/science_products.html) files of JWST NIRSpec for K2-18 planet, which is suspected to be habitable I plot planet spectra across the wavelength of 1.6-3 micrometres and compare them across the theoretical black body(t = 3500k) of the host star k2-18 which is red dwarf. 
+In this project of mine, I plot [x1dint.fits](https://jwst-pipeline.readthedocs.io/en/latest/jwst/data_products/science_products.html) files of JWST NIRSpec for K2-18 planet, which is suspected to be habitable I plot planet spectra across the wavelength of 1.6-3 micrometres and compare them across the theoretical black body(t = 3500k) of the host star k2-18 which is a red dwarf. 
 
 ### Data source 
 I got this data from stsi [mast](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html) portal and datasets contain data from both nirspecs nrs1 and nrs2 detector ([detectors in nirspec])(https://jwst-docs.stsci.edu/jwst-near-infrared-spectrograph/nirspec-instrumentation/nirspec-detectors/nirspec-detector-performance)
